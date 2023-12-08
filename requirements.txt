@@ -1,0 +1,9 @@
+flask
+redis
+flask-caching
+pymongo
+python-dotenv
+Flask-CORS
+async-timeout
+numpy
+requests
