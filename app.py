@@ -1,5 +1,4 @@
 from flask import Flask, jsonify, request
-from flask_caching import Cache
 from pymongo import MongoClient
 from flask_cors import CORS
 from dotenv import load_dotenv

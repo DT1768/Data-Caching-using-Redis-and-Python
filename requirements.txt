@@ -1,6 +1,5 @@
 flask
 redis
-flask-caching
 pymongo
 python-dotenv
 Flask-CORS
